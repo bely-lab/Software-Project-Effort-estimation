@@ -1,6 +1,6 @@
-# 📊 Software Effort Estimation Using Machine Learning
+# Software Effort Estimation Using Machine Learning
 
-## 📌 Overview
+## Overview
 This project focuses on **predictive software effort estimation** using Machine Learning techniques.  
 Accurate effort estimation is essential for successful software project management, resource allocation, and cost planning.
 
@@ -8,7 +8,7 @@ The project compares multiple regression-based ML algorithms to predict software
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Preprocess and analyze software project datasets
 - Implement multiple Machine Learning regression models
 - Compare model performance using evaluation metrics
@@ -16,7 +16,7 @@ The project compares multiple regression-based ML algorithms to predict software
 
 ---
 
-## 🧠 Machine Learning Models Used
+## Machine Learning Models Used
 - Linear Regression
 - Decision Tree Regression
 - Random Forest Regression
@@ -24,7 +24,7 @@ The project compares multiple regression-based ML algorithms to predict software
 
 ---
 
-## 📂 Datasets
+## Datasets
 Two datasets were used for experimentation:
 
 - **Desharnais Dataset**
@@ -39,7 +39,7 @@ These datasets include project attributes such as:
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 1. Data preprocessing and feature analysis
 2. Model training and testing
 3. Performance evaluation
@@ -47,7 +47,7 @@ These datasets include project attributes such as:
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 Model performance was evaluated using:
 
 - Mean Absolute Error (MAE)
@@ -56,7 +56,7 @@ Model performance was evaluated using:
 
 ---
 
-## 🏆 Results
+## Results
 - Linear Regression showed consistent performance across datasets.
 - Random Forest demonstrated strong robustness and accuracy.
 - Decision Tree required tuning due to overfitting issues.
@@ -64,7 +64,7 @@ Model performance was evaluated using:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Jupyter Notebook
 - Scikit-learn

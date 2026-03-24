@@ -1,7 +1,7 @@
 # Software Effort Estimation Using Machine Learning
 
 ## Overview
-This project focuses on **predictive software effort estimation** using Machine Learning techniques.  
+This project focuses on predictive software effort estimation using Machine Learning techniques.  
 Accurate effort estimation is essential for successful software project management, resource allocation, and cost planning.
 
 The project compares multiple regression-based ML algorithms to predict software development effort using historical datasets.
